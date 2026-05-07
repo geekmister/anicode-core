@@ -1,0 +1,1 @@
+export { BinarySearchVisualizer } from '../BinarySearchVisualizer';
